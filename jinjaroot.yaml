@@ -1,0 +1,7 @@
+projectName: bookofmormon
+projectVersion: 0.1.0
+projectAuthor: Jeremy Magland
+projectAuthorEmail: jeremy.magland@gmail.com
+projectDescription: Python access to the text of the Book of Mormon
+projectUrl: https://github.com/jer-magland/bookofmormon
+projectBugTrackerUrl: https://github.com/jer-magland/bookofmormon/issues
